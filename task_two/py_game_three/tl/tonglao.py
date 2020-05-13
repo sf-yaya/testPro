@@ -31,3 +31,4 @@ class TongLao:
 # tl = TongLao()
 # tl.fight_zms(100, 500)
 # tl.see_people(tl.name)
+
